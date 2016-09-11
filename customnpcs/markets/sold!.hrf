@@ -1,0 +1,93 @@
+version: "1.7.2.1",
+trade:[
+	0:{
+		sold:{id: (SHORT) 379 <item.brewingStand> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 50  }
+	},
+	1:{
+		sold:{id: (SHORT) 396 <item.carrotGolden> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 3  }
+	},
+	2:{
+		sold:{},
+		currency:{},
+		currency2:{}
+	},
+	3:{
+		sold:{id: (SHORT) 380 <item.cauldron> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 5  }
+	},
+	4:{
+		sold:{id: (SHORT) 378 <item.magmaCream> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 3  }
+	},
+	5:{
+		sold:{},
+		currency:{},
+		currency2:{}
+	},
+	6:{
+		sold:{id: (SHORT) 369 <item.blazeRod> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 5  }
+	},
+	7:{
+		sold:{id: (SHORT) 377 <item.blazePowder> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 2  }
+	},
+	8:{
+		sold:{},
+		currency:{},
+		currency2:{}
+	},
+	9:{
+		sold:{id: (SHORT) 372 <item.netherStalkSeeds> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 7  }
+	},
+	10:{
+		sold:{id: (SHORT) 376 <item.fermentedSpiderEye> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 2  }
+	},
+	11:{
+		sold:{},
+		currency:{},
+		currency2:{}
+	},
+	12:{
+		sold:{id: (SHORT) 382 <item.speckledMelon> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 3  }
+	},
+	13:{
+		sold:{id: (SHORT) 374 <item.glassBottle> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 1  }
+	},
+	14:{
+		sold:{},
+		currency:{},
+		currency2:{}
+	},
+	15:{
+		sold:{id: (SHORT) 370 <item.ghastTear> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 6  }
+	},
+	16:{
+		sold:{id: (SHORT) 373 <item.potion> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 2  }
+	},
+	17:{
+		sold:{},
+		currency:{},
+		currency2:{}
+	}
+]

@@ -1,0 +1,93 @@
+version: "1.7.2.1",
+trade:[
+	0:{
+		sold:{id: (SHORT) 331 <item.redstone> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 1  }
+	},
+	1:{
+		sold:{id: (SHORT) 148 <tile.weightedPlate_heavy> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 3  }
+	},
+	2:{
+		sold:{id: (SHORT) 23 <tile.dispenser> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 5  }
+	},
+	3:{
+		sold:{id: (SHORT) 76 <tile.notGate> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 1  }
+	},
+	4:{
+		sold:{id: (SHORT) 147 <tile.weightedPlate_light> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 6  }
+	},
+	5:{
+		sold:{id: (SHORT) 158 <tile.dropper> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 5  }
+	},
+	6:{
+		sold:{id: (SHORT) 356 <item.diode> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 4  }
+	},
+	7:{
+		sold:{id: (SHORT) 70 <tile.pressurePlate> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 2  }
+	},
+	8:{
+		sold:{id: (SHORT) 33 <tile.pistonBase> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 5  }
+	},
+	9:{
+		sold:{id: (SHORT) 404 <item.comparator> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 5  }
+	},
+	10:{
+		sold:{id: (SHORT) 72 <tile.pressurePlate> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 1  }
+	},
+	11:{
+		sold:{id: (SHORT) 29 <tile.pistonStickyBase> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 7  }
+	},
+	12:{
+		sold:{id: (SHORT) 152 <tile.blockRedstone> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 9  }
+	},
+	13:{
+		sold:{id: (SHORT) 77 <tile.button> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 2  }
+	},
+	14:{
+		sold:{id: (SHORT) 123 <tile.redstoneLight> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 10  }
+	},
+	15:{
+		sold:{id: (SHORT) 151 <tile.daylightDetector> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 6  }
+	},
+	16:{
+		sold:{id: (SHORT) 143 <tile.button> , Damage: (SHORT) 0  , Count: (BYTE) 1  },
+		currency:{},
+		currency2:{id: (SHORT) 266 <item.ingotGold> , Damage: (SHORT) 0  , Count: (BYTE) 1  }
+	},
+	17:{
+		sold:{},
+		currency:{},
+		currency2:{}
+	}
+]
